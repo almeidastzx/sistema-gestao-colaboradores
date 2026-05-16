@@ -2,6 +2,14 @@
 
 Este projeto foi desenvolvido como o trabalho prático do 1º Semestre do curso de Ciência da Computação. O objetivo principal é consolidar os conceitos iniciais de lógica de programação, estruturas de dados e os pilares básicos da Programação Orientada a Objetos (POO) utilizando a linguagem Java.
 
+## ✒️ Autor
+
+* **Desenvolvedora:** Beatriz Almeida
+* **Curso:** Ciência da Computação - 1º Semestre
+* **Instituição:** Universidade São Judas Tadeu
+* **Versão:** 1.0
+* **Ferramentas:** Java, VSCode, Camunda (BMPN)
+
 ## 🚀 Sobre o Projeto
 
 O software consiste em um sistema interativo via terminal (Console) que permite gerenciar o cadastro de colaboradores de uma empresa e automatizar o cálculo de seus salários finais com base em três modalidades distintas de contratação: Padrão, Comissionado e Produção.
@@ -42,10 +50,4 @@ Para atender aos requisitos propostos, o sistema foi estruturado utilizando:
 > **Nota de Usabilidade:** Ao inserir valores decimais (como o valor das peças ou percentuais), certifique-se de utilizar o separador decimal padrão configurado em seu sistema operacional (ponto `.` ou vírgula `,`).
 
 ---
-
-## ✒️ Autor
-
-* **Desenvolvedora:** Beatriz dos Santos de Almeida
-* **Curso:** Ciência da Computação - 1º Semestre
-* **Instituição:** Universidade São Judas Tadeu
 
